@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "name": "abel",
+      "email": "abel@mit.edu",
+      "password": "secret12",
+      "balance": 150,
+      "transactions": [
+        {
+          "starting": 0,
+          "transaction": 200,
+          "ending": 200
+        },
+        {
+          "starting": 200,
+          "transaction": -50,
+          "ending": 150
+        }
+      ]
+    },
+    {
+      "name": "Sammi",
+      "email": "sammi@mit.edu",
+      "password": "password12",
+      "balance": 100,
+      "transactions": [
+        {
+          "starting": 0,
+          "transaction": 100,
+          "ending": 100
+        }
+      ]
+    },
+    {
+      "name": "Tim",
+      "email": "Tim@mit.edu",
+      "password": "forget12",
+      "balance": 1500,
+      "transactions": [
+        {
+          "starting": 0,
+          "transaction": 1000,
+          "ending": 1000
+        },
+        {
+          "starting": 1000,
+          "transaction": 500,
+          "ending": 1500
+        }
+      ]
+    }
+  ]
+}
