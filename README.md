@@ -1,6 +1,6 @@
-# Bad Bank of America
+# Bad Bank
 
-The Bad Bank of America app demonstrates basic front-end React functionality, including:
+The Bad Bank app demonstrates basic front-end React functionality, including:
 * Navigate among different pages using react-router-dom
 * Create Account
 * Login and logout
@@ -25,17 +25,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This project uses React, Express, and MongoDB.
 
 ## Screenshots
-![screenshot](https://github.com/curtispoi/banking/blob/main/BankBank.png)
+![screenshot](https://github.com/curtispoi/badbank/main/BankBank.png)
 
 ## Features
-A full specification of functionality can be found in the [Requirements](https://curtispoi.github.io/banking/docs/requirements.md) doc. 
+A full specification of functionality can be found in the [Requirements](https://curtispoi.github.io/badbank/docs/requirements.md) doc. 
 
 ## License
-This project is licensed under the [MIT](https://github.com/jayeclark/banking/blob/main/LICENSE) license.
+This project is licensed under the [MIT](https://github.com/curtispoi/badbank/main/LICENSE) license.
 
 ## Deploy on GitHub Pages
 In order to deploy, you must have node installed. Get it [here](https://nodejs.org/). Recommended: use yarn instead of npm for package management. Get yarn [here](https://getyarn.io/).
-* Clone repository locally using ```git clone https://github.com/curtispoi/banking```
+* Clone repository locally using ```git clone https://github.com/curtispoi/badbank```
 * Sync with your personal GitHub
 * Install dependencies using ```npm install``` or ```yarn install```
 * In package.json, update homepage to reflect your homepage and the desired directory where you would like the banking app to appear
